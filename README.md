@@ -2,8 +2,6 @@
 
 This project is to classify images into drowsiness and normal condition.
 
-I participated in the project 'Development of intention recognition intelligent technology based on user multi-data for non-face-to-face devices' conducted by ETRI.
-
 The ones used for image preprocessing are haar cascade and mediapipe.
 
 WideResnet tried to create a more accurate classification model by expanding the range of models.
