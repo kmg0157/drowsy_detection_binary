@@ -19,9 +19,11 @@ Check the code for the detailed structure of the model.
 
 1. Model 1 (CNN)
 ![image](https://github.com/kmg0157/drowsy_detection_binary/assets/102772772/d61ab8ba-6d22-4197-b020-563e92b4c62f)
-2. Model 2 (WideResnet+ReLU)
+
+3. Model 2 (WideResnet+ReLU)
 ![image](https://github.com/kmg0157/drowsy_detection_binary/assets/102772772/c7e5a23e-0a1d-4850-b1db-4da7c4ded29d)
-3. Model 3 (WideResnet+Leaky ReLU)
+
+5. Model 3 (WideResnet+Leaky ReLU)
 ![image](https://github.com/kmg0157/drowsy_detection_binary/assets/102772772/0fc945c0-6936-4f88-a1d0-00b0e317fa25)
 
 ### Test
